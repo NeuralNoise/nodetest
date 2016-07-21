@@ -1,0 +1,21 @@
+{
+  "name": "library",
+  "description": "0.0.0",
+  "main": "app.js",
+  "authors": [
+    "Joe"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/christiansenjoe123/nodetest",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "font-awsome#^4.6.3"
+  }
+}
